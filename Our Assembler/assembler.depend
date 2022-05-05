@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1575005488 source:c:\users\asus\desktop\assembler\main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+
+1575455039 ++.h>
+
+1575107987 source:c:\users\asus\desktop\our assembler\main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+
+1575455039 source:d:\cse 332\cse 332 project processor\our assembler\main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+
+1575455039 source:d:\cse 332\cse 332 project v_2\our assembler\main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+
+1575476640 source:/home/sanaulla/Desktop/8th Semester/CSE332/CSE 332 Project v_2/Our Assembler/main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+

@@ -1,0 +1,4 @@
+addi $s4 6
+addi $s3 5
+add $spr $s3
+bne $s4 -2
